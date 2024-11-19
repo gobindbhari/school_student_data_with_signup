@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "Name": "dev ddddd",
+      "Roll_No": "212",
+      "School": "dev school dddd",
+      "Address": "mohali punjab sddddd",
+      "id": "495c04ca-a008-45ec-b75e-3d723fa94e4b"
+    },
+    {
+      "Name": "devr444",
+      "Roll_No": "122",
+      "School": "devrrewrtyu",
+      "Address": "ertyyyyyyy",
+      "id": "82ab2b4a-7c10-4675-a42b-faf645f5ea1c"
+    },
+    {
+      "id": "f609dc04-2f90-4f83-a527-f59346ec1347",
+      "Name": "uuiuiu",
+      "Roll_No": "221",
+      "School": "fgdfdtufd fhfdhgf",
+      "Address": "ygfhgf gfhgfhgf"
+    },
+    {
+      "id": "2d152264-cfee-4a92-8810-ab88a5a87f66",
+      "Name": "Sert",
+      "Roll_No": "232",
+      "School": "dsad3333333333",
+      "Address": "reddddddddd"
+    }
+  ],
+  "admin":[
+    {
+      "Name":"gffhhghg",
+      "role":"gffhhghg"
+    }
+  ]
+}
